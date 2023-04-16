@@ -1,2 +1,2 @@
-# FH-RoomBooking
-A java room booking program
+# Quixx
+A java 2-5 player board game
